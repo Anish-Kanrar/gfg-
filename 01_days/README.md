@@ -47,7 +47,7 @@ The largest element of the array is `10`, and the second largest element does no
 
 ---
 
-## Constraints
+## Constraints:
 
-- \( 2 \leq \text{arr.size()} \leq 10^5 \)
-- \( 1 \leq \text{arr[i]} \leq 10^5 \)
+- 2 ≤ arr.size() ≤ 105
+- 1 ≤ arr[i] ≤ 105
