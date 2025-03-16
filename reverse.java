@@ -1,8 +1,8 @@
 package LInkedList;
 
+//reverse the linked list
 class Solution {
     Node reverseList(Node head) {
-        // code here
         Node prev=null;
         Node curr=head;
         Node next;
@@ -14,5 +14,4 @@ class Solution {
         }
         return prev;
     }
-
 }
